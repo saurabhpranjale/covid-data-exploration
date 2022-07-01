@@ -4,7 +4,7 @@ I have performed data analysis using SQL on the files CovidDeaths.csv and CovidV
 
 Refer SQL_Data_Exploration.sql to see SQL Queries
 
-See Data visualization dashboard here : https://public.tableau.com/app/profile/saurabh.budhwani/viz/Covid_deaths_dashboard/Dashboard1
+See Data visualization dashboard here : https://public.tableau.com/app/profile/saurabh.pranjale/viz/Covid_deaths_dashboard/Dashboard1
 
 Using Ms SQL Server i performed following tasks:
 
