@@ -6,7 +6,7 @@ Refer SQL_Data_Exploration.sql to see SQL Queries
 
 See Data visualization dashboard here : https://public.tableau.com/views/Covid19data_16567049559600/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Using Ms SQL Server i performed following tasks:
+Using Ms SQL Server I performed following tasks:
 
     -Looking total cases vs total deaths
     -Looking at countries with highest infection rate
